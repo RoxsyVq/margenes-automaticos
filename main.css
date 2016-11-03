@@ -1,0 +1,16 @@
+/* Escribe aqui tu CSS */
+.div1{
+  border: 10px solid yellow;
+  width: 250px;
+  text-align: center;
+  padding: 50px 50px ;
+}
+.div2{
+  border: 10px solid yellow;
+  width: 250px;
+  text-align: center;
+  padding: 50px 50px ;
+  display:inline-block;
+  position: absolute;
+  left: 500px;
+}
